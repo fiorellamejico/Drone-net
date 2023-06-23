@@ -1,0 +1,158 @@
+
+.sectionservicos{
+    width: 980px;
+    margin:0 auto 0;
+    padding: 0px 0px;
+}
+ 
+.tituloservicos{
+    width: 100%;
+    display: flex;
+   
+}
+ 
+.tituloloservicos div{
+    display: inline-block;
+}
+ 
+.imagemdrone2{
+    display: inline-block;
+    
+}
+ 
+.servicos{
+    width: 856px;
+    padding-top: 26px;
+}
+ 
+.sectionservicos h1{
+    font-style: arial;
+    color: #1b8e99;
+    font-size: 22px;
+    padding-bottom: 8px;
+    border-bottom: 3px solid #1b8e99;
+    text-transform: uppercase;
+}
+ 
+
+.c_servicos{
+    width: 300px;
+    height: 350px;
+    background-color: #ffffff;
+    margin: auto;
+    border: solid 2px #600000;
+    border-bottom: solid 10px #600000;
+    display: inline-block;
+    margin: 10;
+    margin-bottom: 75;
+    
+}
+
+/*A*/
+
+.servicosA{
+    width: 300px;
+    height: 137px;
+    background-image: url(../img/ServicosA.png);
+    margin-bottom: 20px;
+    
+}
+
+.c_titulo_servicos{
+
+    font-size: 17px;
+    font-family: Tahoma;
+    color: #600000;
+    margin-bottom: 30px;
+    margin-left: 10;
+
+}
+
+.text_c_servicos{
+    color: #600000;
+    font-size: 13px;
+    font-family: Tahoma;
+    margin-left: 10;
+    
+}
+
+
+/*B*/
+.c_servicos2{
+    width: 300px;
+    height: 350px;
+    background-color: #ffffff;
+    margin: auto;
+    border: solid 2px #1b8e99;
+    border-bottom: solid 10px #1b8e99;
+    display: inline-block;
+    margin: 10;
+    
+}
+.servicosB{
+    width: 300px;
+    height: 137px;
+    background-image: url(../img/ServicosB.png);
+    margin-bottom: 20px;
+}  
+
+.c_titulo_servicos2{
+
+    font-size: 17px;
+    font-family: Tahoma;
+    color: #1b8e99;
+    margin-bottom: 30px;
+    margin-left: 10;
+
+}
+
+.text_c_servicos2{
+    color: #1b8e99;
+    font-size: 13px;
+    font-family: Tahoma;
+    margin-left: 10;
+    
+}
+
+
+
+
+/*C*/
+.servicosC{
+    width: 300px;
+    height: 137px;
+    background-image: url(../img/ServicosC.png);
+    margin-bottom: 20px;
+} 
+
+
+/*B*/
+.servicosB{
+    width: 300px;
+    height: 137px;
+    background-image: url(../img/ServicosB.png);
+    margin-bottom: 20px;
+}  
+
+
+
+
+/*C*/
+.servicosC{
+    width: 300px;
+    height: 137px;
+    background-image: url(../img/ServicosC.png);
+    margin-bottom: 20px;
+} 
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,158 @@
+.sectionloja{
+    width: 980px;
+    margin:0 auto 0;
+    padding: 0px 0px;
+}
+ 
+.titulolojavirtual{
+    width: 100%;
+    display: flex;
+
+}
+ 
+.titulolojavirtual div{
+    display: inline-block;
+}
+ 
+.imagemdrone1{
+    display: inline-block;
+    
+}
+ 
+.lojavirt{
+    width: 856px;
+    padding-top: 18px;
+}
+ 
+.sectionloja h1{
+    font-style: arial;
+    color: #660000;
+    font-size: 18px;
+    padding-bottom: 8px;
+    border-bottom: 3px solid #660000;
+    text-transform: uppercase;
+}
+
+
+
+/*CONTAINER LOJA*/
+
+.c_loja{
+    width: 300px;
+    height: 280px;
+    background-color: #ffffff;
+    margin: auto;
+    border: solid 2px #1b8e99;
+    border-bottom: solid #1b8e99 96px;
+    font-family: Tahoma;
+    color: #ffffff;
+    display: inline-block;
+    margin: 10;
+}
+
+.c_titulo{
+    width: 292px;
+    padding-bottom: 7;
+    background-color: #dfeef1;
+    font-size: 16px;
+    font-family: Tahoma;
+    text-align: center;
+    color: #1b8e99;
+    margin: 4px;
+}
+
+.droneA{
+    width: 279px;
+    height: 164px;
+    background-image: url(../img/DroneA.png);
+    margin: auto;
+}
+
+.text_c_loja{
+    color: #1b8e99;
+    font-size: 13px;
+    font-family: Tahoma;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.valor{
+    font-size: 30px;
+    padding-top: 20;
+    padding-left: 10;
+}
+.parcela{
+    font-size: 14px;
+    margin-top: -30px;
+    padding-left: 10;
+}
+
+
+
+.carrinho{
+    background-color: #ffffff;
+    width: 56px;
+    height: 52px;
+    border: solid  6px #ffffff;
+    border-radius: 4px;
+    background-image: url(../img/carrinho.png);
+    margin-left: 205px;
+    margin-top: -80;
+    position: absolute;
+}
+
+/*B*/
+
+.droneB{
+    width: 279px;
+    height: 164px;
+    background-image: url(../img/DroneB.png);
+    margin: auto;
+}
+
+.c_loja2{
+    width: 300px;
+    height: 280px;
+    background-color: #ffffff;
+    margin: auto;
+    border: solid 2px #660000;
+    border-bottom: solid #660000 96px;
+    font-family: Tahoma;
+    color: #ffffff;
+    display: inline-block;
+    margin: 10;
+}
+
+.c_titulo2{
+    width: 292px;
+    padding-bottom: 7;
+    background-color: #66000023;
+    font-size: 16px;
+    font-family: Tahoma;
+    text-align: center;
+    color: #660000;
+    margin: 4px;
+}
+
+.text_c_loja2{
+    color: #660000;
+    font-size: 13px;
+    font-family: Tahoma;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+
+
+
+
+
+/*C*/
+
+.droneC{
+    width: 279px;
+    height: 164px;
+    background-image: url(../img/DroneC.png);
+    margin: auto;
+}

@@ -1,0 +1,56 @@
+/*CONTAINER*/
+.container{
+    width: 980px;
+    /*Cor da fonte*/
+    color: #ffffff;
+    /*Margem*/
+    margin: auto;  
+    /*Cor de fundo do container*/
+    padding-top: 10px;
+    
+}
+.logo{
+    margin-left: 20px;
+    margin-top: -416px;
+    background-image: url(../img/logo.fw.png);
+    width: 194px;
+    height: 146px;
+}
+    
+/*MENU*/
+
+    /*Horizontal*/
+    ul li{
+        display: inline;
+        height: 35px;
+    }
+
+
+    ul li a{
+        color: #ffffff;
+        text-decoration: none;
+        padding: 7px 14px 5px 14px;
+        display: inline-block;
+        text-align: center;
+    
+    }
+
+    
+.banner{
+    background-image: url(../img/banner.fw.png);
+    width: 980 px;
+    height: 352px;
+    margin-top: -7px;
+    
+
+}
+
+hr{
+    color: black;
+    border-bottom: 15px solid #444;
+    margin-left: 10;
+    margin-right: 10;
+}
+
+
+
